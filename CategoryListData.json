@@ -1,0 +1,4462 @@
+{
+  "data": [
+    {
+      "firstCateName": "为您推荐",
+      "firstCateId": "0000001",
+      "secondCateItems": [
+        {
+          "secondCateName": "女装",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "女鞋",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "男装",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "家电",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "美妆",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstCateName": "国际大牌",
+      "firstCateId": "0000001",
+      "secondCateItems": [
+        {
+          "secondCateName": "中国",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "韩国",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "美国",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "英国",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstCateName": "天猫国际",
+      "firstCateId": "0000001",
+      "secondCateItems": [
+        {
+          "secondCateName": "母婴用品",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "营养保健",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "美妆",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "个护",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "食品",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstCateName": "女装",
+      "firstCateId": "0000001",
+      "secondCateItems": [
+        {
+          "secondCateName": "风格馆",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "气质裙装",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "时尚百搭",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "百搭裤装",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "特色服装",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstCateName": "男装",
+      "firstCateId": "0000001",
+      "secondCateItems": [
+        {
+          "secondCateName": "风格馆",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "休闲裤",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "潮流上装",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "棉衣",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "毛衣",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstCateName": "内衣",
+      "firstCateId": "0000001",
+      "secondCateItems": [
+        {
+          "secondCateName": "文胸",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "内裤",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "塑身",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "袜子",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "睡衣",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstCateName": "母婴",
+      "firstCateId": "0000001",
+      "secondCateItems": [
+        {
+          "secondCateName": "奶粉",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "孕妈",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "喂养",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "童车",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "玩具",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstCateName": "手机",
+      "firstCateId": "0000001",
+      "secondCateItems": [
+        {
+          "secondCateName": "热门品牌",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "苹果",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "三星",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "华为",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "小米",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstCateName": "数码",
+      "firstCateId": "0000001",
+      "secondCateItems": [
+        {
+          "secondCateName": "摄影摄像",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "数码影音",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "电脑",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "办公文教游戏",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstCateName": "家电",
+      "firstCateId": "0000001",
+      "secondCateItems": [
+        {
+          "secondCateName": "彩电影音",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "冰洗空调",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "烟机灶具",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "厨房电器",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "生活电器",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstCateName": "美妆",
+      "firstCateId": "0000001",
+      "secondCateItems": [
+        {
+          "secondCateName": "护肤馆",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "护理分类",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "时尚彩妆",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "男士护肤",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "品牌墙",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstCateName": "箱包",
+      "firstCateId": "0000001",
+      "secondCateItems": [
+        {
+          "secondCateName": "女包",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "男包",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "拉杆箱",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "背包",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "钱包",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstCateName": "运行",
+      "firstCateId": "0000001",
+      "secondCateItems": [
+        {
+          "secondCateName": "跑步鞋",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "篮球鞋",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "休闲鞋",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "运动用品",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "运动潮服",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstCateName": "户外",
+      "firstCateId": "0000001",
+      "secondCateItems": [
+        {
+          "secondCateName": "户外服装",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "户外鞋袜",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "户外装备",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "自行车",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "垂钓",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstCateName": "家装",
+      "firstCateId": "0000001",
+      "secondCateItems": [
+        {
+          "secondCateName": "照明灯饰",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "厨卫",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "电工五金",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "墙地面",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "定制家具",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstCateName": "家纺",
+      "firstCateId": "0000001",
+      "secondCateItems": [
+        {
+          "secondCateName": "床品套件",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "被子",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "保健枕头",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "其他家纺",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "居家布艺",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstCateName": "居家",
+      "firstCateId": "0000001",
+      "secondCateItems": [
+        {
+          "secondCateName": "当季热卖",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "厨房餐饮",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "收纳整理",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "日用品",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "个人清洁",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstCateName": "鲜花园艺",
+      "firstCateId": "0000001",
+      "secondCateItems": [
+        {
+          "secondCateName": "鲜花园艺",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstCateName": "饰品",
+      "firstCateId": "0000001",
+      "secondCateItems": [
+        {
+          "secondCateName": "珠宝",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "首饰",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "手表",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "眼镜配件",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstCateName": "食品",
+      "firstCateId": "0000001",
+      "secondCateItems": [
+        {
+          "secondCateName": "进口食品",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "休闲零食",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "茶饮冲调",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "名优美酒",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "粮油干货",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstCateName": "生鲜",
+      "firstCateId": "0000001",
+      "secondCateItems": [
+        {
+          "secondCateName": "新鲜水果",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "海鲜水产",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "肉类",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "蛋类",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "冰淇淋",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstCateName": "医药",
+      "firstCateId": "0000001",
+      "secondCateItems": [
+        {
+          "secondCateName": "药品体检",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "营养补充剂",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "隐形眼镜",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "医疗器械",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        },
+        {
+          "secondCateName": "保健食品",
+          "secondCateId": "1000001",
+          "items": [
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            },
+            {
+              "itemImg": "http://ovyjkveav.bkt.clouddn.com/17-10-19/15885901.jpg",
+              "title": "羽绒服",
+              "itemPrice": 100.00,
+              "itemId": "2000001"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
